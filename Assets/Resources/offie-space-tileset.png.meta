@@ -14,6 +14,348 @@ TextureImporter:
   - first:
       213: 1695115454986664549
     second: offie-space-tileset_3
+  - first:
+      213: -4329234894365592691
+    second: offie-space-tileset_4
+  - first:
+      213: 1915671815754657115
+    second: offie-space-tileset_5
+  - first:
+      213: 228692447216463858
+    second: offie-space-tileset_6
+  - first:
+      213: -4926642417302754741
+    second: offie-space-tileset_7
+  - first:
+      213: -2761947961321686070
+    second: offie-space-tileset_8
+  - first:
+      213: 4822323236201680824
+    second: offie-space-tileset_9
+  - first:
+      213: -7990254551003047717
+    second: offie-space-tileset_10
+  - first:
+      213: 5101829060060583498
+    second: offie-space-tileset_11
+  - first:
+      213: 3657298521097187224
+    second: offie-space-tileset_12
+  - first:
+      213: -157155349500906891
+    second: offie-space-tileset_13
+  - first:
+      213: -4579489096631548801
+    second: offie-space-tileset_14
+  - first:
+      213: -2395175902299317313
+    second: offie-space-tileset_15
+  - first:
+      213: -8697941669185090226
+    second: offie-space-tileset_16
+  - first:
+      213: 7087193276196174565
+    second: offie-space-tileset_17
+  - first:
+      213: -5247104404939451410
+    second: offie-space-tileset_18
+  - first:
+      213: 6272373639600412974
+    second: offie-space-tileset_19
+  - first:
+      213: 5124187555736480465
+    second: offie-space-tileset_20
+  - first:
+      213: -7072487134740335163
+    second: offie-space-tileset_21
+  - first:
+      213: -625941574771923429
+    second: offie-space-tileset_22
+  - first:
+      213: 374495141310403708
+    second: offie-space-tileset_23
+  - first:
+      213: -427410046251114115
+    second: offie-space-tileset_24
+  - first:
+      213: -7240901820754991801
+    second: offie-space-tileset_25
+  - first:
+      213: -6665523118578662308
+    second: offie-space-tileset_26
+  - first:
+      213: 4268022534392330175
+    second: offie-space-tileset_27
+  - first:
+      213: -3944930904953021785
+    second: offie-space-tileset_28
+  - first:
+      213: -6621383025358687139
+    second: offie-space-tileset_29
+  - first:
+      213: 4668230972598087409
+    second: offie-space-tileset_30
+  - first:
+      213: 6008601722285861273
+    second: offie-space-tileset_31
+  - first:
+      213: 1234270654893741219
+    second: offie-space-tileset_32
+  - first:
+      213: 3876299789772025844
+    second: offie-space-tileset_33
+  - first:
+      213: -7759285510215212813
+    second: offie-space-tileset_34
+  - first:
+      213: 7604242356232755681
+    second: offie-space-tileset_35
+  - first:
+      213: -1469863912697828558
+    second: offie-space-tileset_36
+  - first:
+      213: 4027192464605743309
+    second: offie-space-tileset_37
+  - first:
+      213: -5543964834842692849
+    second: offie-space-tileset_38
+  - first:
+      213: 7615349891027014752
+    second: offie-space-tileset_39
+  - first:
+      213: -5118341084708734706
+    second: offie-space-tileset_40
+  - first:
+      213: 4761268287662990751
+    second: offie-space-tileset_41
+  - first:
+      213: 4728364073355988269
+    second: offie-space-tileset_42
+  - first:
+      213: -2506788748892080882
+    second: offie-space-tileset_43
+  - first:
+      213: 5382708540218598080
+    second: offie-space-tileset_44
+  - first:
+      213: -3581938504802325774
+    second: offie-space-tileset_45
+  - first:
+      213: 4101969773107457949
+    second: offie-space-tileset_46
+  - first:
+      213: 2730480256141907696
+    second: offie-space-tileset_47
+  - first:
+      213: 2176090322691828945
+    second: offie-space-tileset_48
+  - first:
+      213: -3247256087211080291
+    second: offie-space-tileset_49
+  - first:
+      213: -1795918379075412395
+    second: offie-space-tileset_50
+  - first:
+      213: 448380181651227200
+    second: offie-space-tileset_51
+  - first:
+      213: -7209539461282113424
+    second: offie-space-tileset_52
+  - first:
+      213: 922161781423074846
+    second: offie-space-tileset_53
+  - first:
+      213: 5239610194161638032
+    second: offie-space-tileset_54
+  - first:
+      213: -9121857350272056521
+    second: offie-space-tileset_55
+  - first:
+      213: -8872312609028560457
+    second: offie-space-tileset_56
+  - first:
+      213: -4459734578139787321
+    second: offie-space-tileset_57
+  - first:
+      213: -810639019175682358
+    second: offie-space-tileset_58
+  - first:
+      213: 1090563862314128332
+    second: offie-space-tileset_59
+  - first:
+      213: -5676136071841079091
+    second: offie-space-tileset_60
+  - first:
+      213: -4059058356978700570
+    second: offie-space-tileset_61
+  - first:
+      213: -7535760618737263118
+    second: offie-space-tileset_62
+  - first:
+      213: 463319890176419747
+    second: offie-space-tileset_63
+  - first:
+      213: 3454742692786271134
+    second: offie-space-tileset_64
+  - first:
+      213: 2424120612168504171
+    second: offie-space-tileset_65
+  - first:
+      213: -2473231978689104704
+    second: offie-space-tileset_66
+  - first:
+      213: -6914781151976186834
+    second: offie-space-tileset_67
+  - first:
+      213: -7477962485595059711
+    second: offie-space-tileset_68
+  - first:
+      213: 9095812201191293510
+    second: offie-space-tileset_69
+  - first:
+      213: 1980185974211845897
+    second: offie-space-tileset_70
+  - first:
+      213: 2866556175618883122
+    second: offie-space-tileset_71
+  - first:
+      213: -4408514391627160958
+    second: offie-space-tileset_72
+  - first:
+      213: 4778578218603472264
+    second: offie-space-tileset_0
+  - first:
+      213: 3873422159584419430
+    second: offie-space-tileset_1
+  - first:
+      213: -4540277855801426806
+    second: offie-space-tileset_2
+  - first:
+      213: 5599690873797163346
+    second: offie-space-tileset_3
+  - first:
+      213: -5602471604169226028
+    second: offie-space-tileset_4
+  - first:
+      213: 3141637951355896013
+    second: offie-space-tileset_5
+  - first:
+      213: -154613269866937000
+    second: offie-space-tileset_6
+  - first:
+      213: -407844694895647038
+    second: offie-space-tileset_7
+  - first:
+      213: 3341916017988640807
+    second: offie-space-tileset_8
+  - first:
+      213: 754433641210878414
+    second: offie-space-tileset_9
+  - first:
+      213: 2135785689399221745
+    second: offie-space-tileset_10
+  - first:
+      213: -7024082111353190688
+    second: offie-space-tileset_11
+  - first:
+      213: -1550714443251046485
+    second: offie-space-tileset_12
+  - first:
+      213: 7944310319904620303
+    second: offie-space-tileset_13
+  - first:
+      213: 1903186610753136174
+    second: offie-space-tileset_14
+  - first:
+      213: 2249220882321386391
+    second: offie-space-tileset_15
+  - first:
+      213: 6277442175685482672
+    second: offie-space-tileset_16
+  - first:
+      213: 5460630889432837341
+    second: offie-space-tileset_17
+  - first:
+      213: 7022689850126417545
+    second: offie-space-tileset_18
+  - first:
+      213: -3133063272501541981
+    second: offie-space-tileset_19
+  - first:
+      213: -5316712411777831031
+    second: offie-space-tileset_20
+  - first:
+      213: 1626671395837605104
+    second: offie-space-tileset_21
+  - first:
+      213: 471081312936876344
+    second: offie-space-tileset_22
+  - first:
+      213: 2673952671767945154
+    second: offie-space-tileset_23
+  - first:
+      213: 9098620381105844072
+    second: offie-space-tileset_24
+  - first:
+      213: -7104031573100913227
+    second: offie-space-tileset_25
+  - first:
+      213: 4926724758193464013
+    second: offie-space-tileset_26
+  - first:
+      213: -4062506056084950769
+    second: offie-space-tileset_27
+  - first:
+      213: 8669160183820558484
+    second: offie-space-tileset_28
+  - first:
+      213: 3428115349999636866
+    second: offie-space-tileset_29
+  - first:
+      213: 3014264131084007961
+    second: offie-space-tileset_30
+  - first:
+      213: 5645644271524773796
+    second: offie-space-tileset_31
+  - first:
+      213: 8858268957058250911
+    second: offie-space-tileset_32
+  - first:
+      213: 8725449524469887797
+    second: offie-space-tileset_33
+  - first:
+      213: -4059859502846168207
+    second: offie-space-tileset_34
+  - first:
+      213: -6771061476106611027
+    second: offie-space-tileset_35
+  - first:
+      213: -6843632734491756074
+    second: offie-space-tileset_36
+  - first:
+      213: 7140565703616333763
+    second: offie-space-tileset_37
+  - first:
+      213: -3337197393481568070
+    second: offie-space-tileset_38
+  - first:
+      213: -164481681936597091
+    second: offie-space-tileset_39
+  - first:
+      213: -5687540414561938659
+    second: offie-space-tileset_40
+  - first:
+      213: -5768342108048691684
+    second: offie-space-tileset_41
+  - first:
+      213: 4522251768486198064
+    second: offie-space-tileset_42
+  - first:
+      213: -3519669168664864322
+    second: offie-space-tileset_43
+  - first:
+      213: -6418317250242056991
+    second: offie-space-tileset_44
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -115,9 +457,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 96
-        width: 17
-        height: 28
+        y: 144
+        width: 23
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -125,8 +467,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74d241c80779e4fc0800000000000000
-      internalID: -3508700550032773817
+      spriteID: 8856743629be05240800000000000000
+      internalID: 4778578218603472264
       vertices: []
       indices: 
       edges: []
@@ -135,10 +477,10 @@ TextureImporter:
       name: offie-space-tileset_1
       rect:
         serializedVersion: 2
-        x: 17
-        y: 96
-        width: 46
-        height: 20
+        x: 41
+        y: 144
+        width: 439
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,8 +488,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c12b38a364c00c970800000000000000
-      internalID: 8773025569886679580
+      spriteID: 66ed72f8ee821c530800000000000000
+      internalID: 3873422159584419430
       vertices: []
       indices: 
       edges: []
@@ -156,19 +498,124 @@ TextureImporter:
       name: offie-space-tileset_2
       rect:
         serializedVersion: 2
-        x: 62
-        y: 96
-        width: 18
-        height: 36
+        x: 1
+        y: 97
+        width: 14
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
-      border: {x: 1, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2353660135ef5510800000000000000
-      internalID: 1540201596307329839
+      spriteID: a8c32677851bdf0c0800000000000000
+      internalID: -4540277855801426806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: offie-space-tileset_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 97
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2593da86e2916bd40800000000000000
+      internalID: 5599690873797163346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: offie-space-tileset_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 97
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8c74952c50042b0800000000000000
+      internalID: -5602471604169226028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: offie-space-tileset_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 97
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc044775217599b20800000000000000
+      internalID: 3141637951355896013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: offie-space-tileset_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 97
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855050cdc04baddf0800000000000000
+      internalID: -154613269866937000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: offie-space-tileset_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 480
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6a73d296b075af0800000000000000
+      internalID: -407844694895647038
       vertices: []
       indices: 
       edges: []
